@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 🤝 I’m looking for help with **any coding tips :)**
+- 🤝 I’m looking for help with **any coding tips, or improving on my code!**
 
-- 💬 Ask me about **C#, Games, Tech, retro games :)**
+- 💬 Ask me about **C#, (retro) Games, tech, working out and music! :)**
 
-- 📫 How to reach me **ramandeepsingh_sd@yahoo.com**
+- 📫 How to reach me **ramandeepsingh_sd@yahoo.com** or instagram.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
