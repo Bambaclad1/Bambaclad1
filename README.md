@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bambaclad1&label=Profile%20views&color=0e75b6&style=flat" alt="bambaclad1" /> </p>
 
-- 🔭 I’m currently working on **A C++ RPG Battle System**
+- 🔭 I’m currently working on **A 4key Rhythm Game in SFML**
 
 - 🌱 I’m currently learning **C++**
 
