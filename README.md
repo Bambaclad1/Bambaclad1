@@ -9,6 +9,8 @@
 
 - 🤝 I’m looking for help with **any coding, gym or music tips :)**
 
+- 🌍 Check out my website! [https://www.ramandepsingh.nl](https://www.ramandepsingh.nl)
+
 - 💬 Ask me about **C#, C++, (Retro)Games, Tech, working out, and nutrition:)**
 
 - 📫 How to reach me **ramandeepsingh_sd@yahoo.com**
