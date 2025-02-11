@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bambaclad1&label=Profile%20views&color=0e75b6&style=flat" alt="bambaclad1" /> </p>
 
-- 🔭 I’m currently looking for an internship!
+- 🔭 I’m currently focussing on my internship!
 
-- 🌱 I’m currently learning **C++/SFML**
+- 🌱 I’m currently learning nothing yet..
 
 - 🤝 I’m looking for help with **any coding, gym or music tips :)**
 
