@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently focussing on my internship!
 
-- 🌱 I’m currently learning nothing yet..
+- 🌱 I’m currently learning  Javascript, AWS and React!
 
 - 🤝 I’m looking for help with **any coding, gym or music tips :)**
 
