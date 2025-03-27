@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **Javascript, React, Sass, Powershell and AWS**
 
+- 🔭 I'm learning the following things as a hobby **music theory, a new language, video editing**
+
 - 🤝 I’m looking for help/feedback with [any coding and gym tips or music recommendations :)](mailto:bambadevstuff@gmail.com)
 
 - 🌍 Check out my website! [https://www.ramandepsingh.nl](https://www.ramandepsingh.nl)
