@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Domits](https://www.domits.com/)
 
-- 🔭 I'm learning the following things as a hobby: **music theory, a new language, video editing**
+- 🔭 I'm learning the following things as a hobby: **music theory, a new language and video editing**
   
 - 🌱 I’m currently learning **Javascript, React, Sass, Powershell and AWS**
 
