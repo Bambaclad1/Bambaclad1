@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [Domits](https://www.domits.com/)
 
-- 🔭 I'm learning the following things as a hobby: **music theory, a new language and video editing**
-  
 - 🌱 I’m currently learning **Javascript, React, Sass, Powershell and AWS**
+
+- 🔭 I'm learning the following things as a hobby **music theory, a new language, video editing**
 
 - 🤝 I’m looking for help/feedback with [any coding and gym tips or music recommendations :)](mailto:bambadevstuff@gmail.com)
 
@@ -20,6 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ramandeepsingh-sd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramandeepsingh-sd" height="30" width="40" /></a>
+<a href="https://instagram.com/bambaisbanned_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bambaisbanned_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
