@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Coding, (Retro)Games, Tech, working out, music, and anything else! 😁**
 
-- 📫 How to reach me **ramandeepsingh_sd@yahoo.com**
+- 📫 How to reach me **removed for now due to spam**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
