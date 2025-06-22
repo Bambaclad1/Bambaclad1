@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help/feedback with [any coding and gym tips or music recommendations :)](mailto:bambadevstuff@gmail.com)
 
-- 🌍 Check out my website! [https://www.ramandepsingh.nl](https://www.ramandepsingh.nl)
+- 🌍 Check out my website! coming soon..
 
 - 💬 Ask me about **Coding, (Retro)Games, Tech, working out, music, and anything else! 😁**
 
