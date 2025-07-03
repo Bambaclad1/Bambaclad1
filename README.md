@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bambaclad1&label=Profile%20views&color=0e75b6&style=flat" alt="bambaclad1" /> </p>
 
-- 🔭 I’m currently working on [Domits](https://www.domits.com/)
+- 🔭 I’m currently on my internship at [Domits](https://www.domits.com/)
 
-- 🌱 I’m currently learning **Javascript, React, Sass, Powershell and AWS**
+- 📖 I'm also studying at the [ROC Van Flevoland](https://www.rocvanflevoland.nl/MBO-onderwijs/Sectoren/ICT/Gamedeveloper)
+
+- 🌱 I’m currently learning **Javascript, React, Sass, Powershell AWS, SQL, PostgreSQL, Linux and Jest!**
 
 - 🔭 I'm learning the following things as a hobby **music theory, a new language, video editing**
 
