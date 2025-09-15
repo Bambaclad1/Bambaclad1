@@ -7,6 +7,8 @@
 
 - 📖 I'm also studying at the [ROC Van Flevoland](https://www.rocvanflevoland.nl/MBO-onderwijs/Sectoren/ICT/Gamedeveloper)
 
+- 📖 Therefore I am also looking to take the CS50 Harvard Course online to think about software in a different way.
+
 - 🧪 I'm currently working on a Browser Extension which will be part of a fitness infrastructure project I'm working om in my free time. More news soon as soon as repo goes public and design is finished!
 
 - 🌱 I’m currently learning **Javascript, React, Sass, Powershell AWS, SQL, PostgreSQL, Linux, GIT and Jest!**
