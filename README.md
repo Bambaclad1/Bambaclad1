@@ -7,17 +7,19 @@
 
 - 📖 I'm also studying at the [ROC Van Flevoland](https://www.rocvanflevoland.nl/MBO-onderwijs/Sectoren/ICT/Gamedeveloper)
 
-- 🌱 I’m currently learning **Javascript, React, Sass, Powershell AWS, SQL, PostgreSQL, Linux and Jest!**
+- 🧪 I'm currently working on a Browser Extension which will be part of a fitness infrastructure project I'm working om in my free time. More news soon as soon as repo goes public and design is finished!
 
-- 🔭 I'm learning the following things as a hobby **music theory, a new language, video editing**
+- 🌱 I’m currently learning **Javascript, React, Sass, Powershell AWS, SQL, PostgreSQL, Linux, GIT and Jest!**
 
-- 🤝 I’m looking for help/feedback with [any coding and gym tips or music recommendations :)](mailto:bambadevstuff@gmail.com)
+- 🔭 I'm learning the following things as a hobby **Reading: Bigger, Leaner Stronger to gain fitness knowledge based by scientific facts.**
 
-- 🌍 Check out my website! [https://www.ramandepsingh.nl](https://www.ramandepsingh.nl)
+- 🤝 I’m looking for help/feedback with any coding and gym tips or music recommendations :)
 
-- 💬 Ask me about **Coding, (Retro)Games, Tech, working out, music, and anything else! 😁**
+- 🌍 Check out my website! ~~[https://www.ramandepsingh.nl](https://www.ramandepsingh.nl)~~ Domain scrapped, website was pretty bare-bones. Proper portofolio will come soon!
 
-- 📫 How to reach me **ramandeepsingh_sd@yahoo.com**
+- 💬 Ask me about **Coding, (Retro)Games, Tech, working out, music, jogging, boxing and anything else! 😁**
+
+- 📫 How to reach me: **Preferably Linkedin/Instagram.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
