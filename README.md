@@ -9,7 +9,7 @@
 
 - 📖 Therefore I am also looking to take the CS50 Harvard Course online to think about software in a different way.
 
-- 🧪 I'm currently working on a Browser Extension which will be part of a fitness infrastructure project I'm working om in my free time. More news soon as soon as repo goes public and design is finished!
+- 🧪 In my free time, I'm working on a [browser extension](https://github.com/Bambaclad1/be-fit-extension) that reminds you to do some push-ups!
 
 - 🌱 I’m currently learning **Javascript, React, Sass, Powershell AWS, SQL, PostgreSQL, Linux, GIT and Jest!**
 
