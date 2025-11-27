@@ -35,3 +35,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bambaclad1&show_icons=true&locale=en" alt="bambaclad1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bambaclad1&" alt="bambaclad1" /></p>
+
+
+ps: this repo's documentation serves as a small vault for some personal documentation!
