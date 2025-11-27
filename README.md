@@ -11,7 +11,7 @@
 
 - 🧪 In my free time, I'm working on a [browser extension](https://github.com/Bambaclad1/be-fit-extension) that reminds you to do some push-ups!
 
-- 🌱 I’m currently learning **Javascript, React, Sass, Powershell AWS, SQL, PostgreSQL, Linux, GIT and Jest!**
+- 🌱 I’m currently learning **Learning the Avalonia UI framework and writing documentation!**
 
 - 🔭 I'm learning the following things as a hobby **Reading: Bigger, Leaner Stronger to gain fitness knowledge based by scientific facts.**
 
