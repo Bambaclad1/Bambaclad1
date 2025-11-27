@@ -37,4 +37,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bambaclad1&" alt="bambaclad1" /></p>
 
 
-ps: this repo's documentation serves as a small vault for some personal documentation!
+ps: this repo's [wiki](https://github.com/Bambaclad1/Bambaclad1/wiki) serves as a small vault for some personal documentation!
