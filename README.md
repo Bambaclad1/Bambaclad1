@@ -11,9 +11,9 @@
 
 - 🧪 In my free time, I'm working on a [browser extension](https://github.com/Bambaclad1/be-fit-extension) that reminds you to do some push-ups!
 
-- 🌱 I’m currently learning **Learning the Avalonia UI framework and writing documentation!**
+- 🌱 I’m currently learning **looking for nice dotnet framework UI's and writing documentation!**
 
-- 🔭 I'm learning the following things as a hobby **Reading: Bigger, Leaner Stronger to gain fitness knowledge based by scientific facts.**
+- 📕 I'm currently reading: Rich Dad Poor Dad (dutch) by Robert Toru Kiyosaki to get a better perspective over finance!
 
 - 🤝 I’m looking for help/feedback with any coding and gym tips or music recommendations :)
 
