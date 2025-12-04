@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bambaclad1&label=Profile%20views&color=0e75b6&style=flat" alt="bambaclad1" /> </p>
 
-- 🔭 I’m currently on my internship at [Domits](https://www.domits.com/)
+- 🔭 I’m currently managing free time!
 
 - 📖 I'm also studying at the [ROC Van Flevoland](https://www.rocvanflevoland.nl/MBO-onderwijs/Sectoren/ICT/Gamedeveloper)
 
-- 📖 Therefore I am also looking to take the CS50 Harvard Course online to think about software in a different way.
+- 📖 Therefore I am also looking to do the Bit Academy HBO Deeltijd course.
 
 - 🧪 In my free time, I'm working on a [browser extension](https://github.com/Bambaclad1/be-fit-extension) that reminds you to do some push-ups!
 
