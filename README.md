@@ -7,7 +7,7 @@
 
 - 📖 I'm also studying at the [ROC Van Flevoland](https://www.rocvanflevoland.nl/MBO-onderwijs/Sectoren/ICT/Gamedeveloper)
 
-- 📖 Therefore I am also looking to do the Bit Academy HBO Deeltijd course.
+- 📖 Therefore I am also looking to do the [Bit Academy HBO Deeltijd course](https://www.bit-academy.nl/hbo/overzicht).
 
 - 🧪 In my free time, I'm working on a [browser extension](https://github.com/Bambaclad1/be-fit-extension) that reminds you to do some push-ups!
 
