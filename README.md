@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bambaclad1&label=Profile%20views&color=0e75b6&style=flat" alt="bambaclad1" /> </p>
 
-- 🔭 I’m currently managing free time!
+- 🔭 I’m currently focussing on fitness, work, and finding some nerdy things to work with till I'll start my new year.
 
 - 📖 I'm also studying at the [ROC Van Flevoland](https://www.rocvanflevoland.nl/MBO-onderwijs/Sectoren/ICT/Gamedeveloper)
 
-- 📖 Therefore I am also looking to do the [Bit Academy HBO Deeltijd course](https://www.bit-academy.nl/hbo/overzicht).
+- 📖 Therefore I got APPLIED AT THE [Bit Academy HBO Deeltijd course](https://www.bit-academy.nl/hbo/overzicht). Woo!!
 
 - 🧪 In my free time, I'm working on a [browser extension](https://github.com/Bambaclad1/be-fit-extension) that reminds you to do some push-ups!
 
-- 🌱 I’m currently learning **looking for nice dotnet framework UI's and writing documentation!**
+- 🌱 I’m currently learning **OS Development!**
 
-- 📕 I'm currently reading: Rich Dad Poor Dad (dutch) by Robert Toru Kiyosaki to get a better perspective over finance!
+- 📕 I'm currently reading: As Long As The Lemon Trees Grow by Zoufla Katouh
 
 - 🤝 I’m looking for help/feedback with any coding and gym tips or music recommendations :)
 
