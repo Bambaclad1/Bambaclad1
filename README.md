@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **OS Development!**
 
-- 📕 I'm currently reading: As Long As The Lemon Trees Grow by Zoufla Katouh
+- 📕 I'm currently reading: Atomic Habits by James Clear
 
 - 🤝 I’m looking for help/feedback with any coding and gym tips or music recommendations :)
 
