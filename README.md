@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently focussing on fitness, work, and finding some nerdy things to work with till I'll start my new year.
 
-- 📖 I'm also studying at the [ROC Van Flevoland](https://www.rocvanflevoland.nl/MBO-onderwijs/Sectoren/ICT/Gamedeveloper)
+- 📖 I'm graduated at [ROC Van Flevoland](https://www.rocvanflevoland.nl/MBO-onderwijs/Sectoren/ICT/Gamedeveloper)!
 
 - 📖 Therefore I got APPLIED AT THE [Bit Academy HBO Deeltijd course](https://www.bit-academy.nl/hbo/overzicht). Woo!!
 
