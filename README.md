@@ -3,30 +3,29 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bambaclad1&label=Profile%20views&color=0e75b6&style=flat" alt="bambaclad1" /> </p>
 
-- 🔭 I’m currently focussing on fitness, work, and finding some nerdy things to work with till I'll start my new year.
+- 🔭 I’m currently focussing on finding a start of my career in Software Development (Feel free to message me!) and pursuing my education at Bit Academy
 
 - 📖 I'm graduated at [ROC Van Flevoland](https://www.rocvanflevoland.nl/MBO-onderwijs/Sectoren/ICT/Gamedeveloper)!
 
-- 📖 Therefore I got APPLIED AT THE [Bit Academy HBO Deeltijd course](https://www.bit-academy.nl/hbo/overzicht). Woo!!
+- 🧪 In my free time, I'm working on getting invested in n8n. Just got claude pro and I'm messing a lot with it!
 
-- 🧪 In my free time, I'm working on a [browser extension](https://github.com/Bambaclad1/be-fit-extension) that reminds you to do some push-ups!
+- 🎮 I'm currently playing YS Origin and Bully (yes, that old game)
 
-- 🌱 I’m currently learning **OS Development!**
+- 🌱 I’m currently learning **Java!**
 
-- 📕 I'm currently reading: Atomic Habits by James Clear
+- 📕 I'm currently reading: Atomic Habits by James Clear (Still reading it. Trust me, we're making progress.)
 
 - 🤝 I’m looking for help/feedback with any coding and gym tips or music recommendations :)
 
-- 🌍 Check out my website! ~~[https://www.ramandepsingh.nl](https://www.ramandepsingh.nl)~~ Domain scrapped, website was pretty bare-bones. Proper portofolio will come soon!
+- 🌍 Check out a website I made! [Singh Tech Support](https://www.singhtechsupport.nl)
 
 - 💬 Ask me about **Coding, (Retro)Games, Tech, working out, music, jogging, boxing and anything else! 😁**
 
-- 📫 How to reach me: **Preferably Linkedin/Instagram.**
+- 📫 How to reach me: **Preferably Linkedin/Email.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ramandeepsingh-sd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramandeepsingh-sd" height="30" width="40" /></a>
-<a href="https://instagram.com/bambaisbanned_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bambaisbanned_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
